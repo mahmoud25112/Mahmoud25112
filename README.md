@@ -1,8 +1,10 @@
 # Mahmoud Saad – @mahmoud25112  
 Data Analyst in Finance & Analytics  
-Currently leveraging data to drive financial innovation through forecasting, machine learning, and visualization.  
+Currently working on a ProfitProphit, a new tool to forecast in cashflow to optimize inventory levels.  
 
-[View my resume](https://github.com/mahmoud25112/Mahmoud25112/blob/main/Mahmoud_FP%26A.pdf)  • [LinkedIn](https://www.linkedin.com/in/mahmoud-saad-617876254/) • [Discord](#spacedandy25)
+[View my resume](https://github.com/mahmoud25112/Mahmoud25112/blob/main/Mahmoud_FP%26A.pdf)  
+[LinkedIn](https://www.linkedin.com/in/mahmoud-saad-617876254/)
+
 
 ---
 
@@ -55,7 +57,6 @@ I'm a recent Computer Science graduate from NJIT with a deep passion for data. T
 
 Outside of data, I've spent years dedicated to wrestling and martial arts, experiences that instilled in me discipline, resilience, and a continuous drive to improve.
 
-Showcase your skills on your GitHub or resumé with ease! Powered by Cloudflare Workers ⚡
 
 <!--
 **mahmoud25112/Mahmoud25112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
