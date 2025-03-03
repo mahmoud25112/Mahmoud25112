@@ -2,7 +2,7 @@
 Data Analyst in Finance & Analytics  
 Currently leveraging data to drive financial innovation through forecasting, machine learning, and visualization.  
 
-[View my resume](#) • [Mastodon](#) • [LinkedIn](https://www.linkedin.com/in/mahmoud-saad-617876254/) • [Discord](#)
+[View my resume](https://github.com/mahmoud25112/Mahmoud25112/blob/main/Mahmoud_FP%26A.pdf)  • [LinkedIn](https://www.linkedin.com/in/mahmoud-saad-617876254/) • [Discord](#spacedandy25)
 
 ---
 
