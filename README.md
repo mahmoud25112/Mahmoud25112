@@ -44,8 +44,8 @@ Currently leveraging data to drive financial innovation through forecasting, mac
 - AWS Certified Cloud Practitioner (Oct 2024)
 
 **Technical Skills:**  
-[![My Skills](https://skillicons.dev/icons?i=python,c,sql,aws)](https://skillicons.dev)  
-Proficient in Python, C, SQL, AWS, and other data tools.
+[![My Skills](https://skillicons.dev/icons?i=python,c,mysql,aws)](https://skillicons.dev)  
+Proficient in Python, C, mySQL, AWS, and other data tools.
 
 ---
 
