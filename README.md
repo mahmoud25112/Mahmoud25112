@@ -1,7 +1,7 @@
 # Mahmoud Saad – @mahmoud25112  
 **Data Scientist & Data Analyst | Healthcare, AI, & Analytics**
 
-Currently working on **Ragon**, a RAG backed chatbot that will be based on MED-BERT to help healthcare profssionals make better decisions or get AI's insights.
+Currently working on **Ragon**, a RAG backed chatbot that will be based on MED-BERT to help healthcare profssionals make better decisions & get AI's insights.
 
 [View my Resume](https://github.com/mahmoud25112/Mahmoud25112/blob/main/Mahmoud_final.pdf) | [LinkedIn](https://www.linkedin.com/in/mahmoud-saad-617876254/)
 
