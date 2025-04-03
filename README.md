@@ -3,7 +3,7 @@
 
 Currently working on **Ragon**, a RAG backed chatbot that will be based on MED-BERT to help healthcare profssionals make better decisions or get AI's insights.
 
-[View my Resume](https://github.com/mahmoud25112/Mahmoud25112/blob/main/Mahmoud_FP%26A.pdf) | [LinkedIn](https://www.linkedin.com/in/mahmoud-saad-617876254/)
+[View my Resume](https://github.com/mahmoud25112/Mahmoud25112/blob/main/Mahmoud_Final.pdf) | [LinkedIn](https://www.linkedin.com/in/mahmoud-saad-617876254/)
 
 ---
 
