@@ -7,6 +7,10 @@
 
 ## Professional Experience 🏢
 
+**Marketing Analyst – Conduit Digital**  
+*(Aug 2025 – Now)*  
+
+
 **Data Analyst – Merck Pharmaceuticals**  
 *(Sep 2024 – Dec 2024)*  
 - Developed an Automated Notification Engine using Power Automate, Sharepoint, & Dataverse, reducing 4,300+ manual hours annually.
